@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-message-bubble@^1.0.6",
+        "scope": null,
+        "escapedName": "react-native-message-bubble",
+        "name": "react-native-message-bubble",
+        "rawSpec": "^1.0.6",
+        "spec": ">=1.0.6 <2.0.0",
+        "type": "range"
+      },
+      "/Users/wangming/koson/angelia"
+    ]
+  ],
+  "_from": "react-native-message-bubble@>=1.0.6 <2.0.0",
+  "_id": "react-native-message-bubble@1.0.6",
+  "_inCache": true,
+  "_location": "/react-native-message-bubble",
+  "_nodeVersion": "5.10.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-message-bubble-1.0.6.tgz_1471411494092_0.136096021393314"
+  },
+  "_npmUser": {
+    "name": "alphamao",
+    "email": "641332669@qq.com"
+  },
+  "_npmVersion": "3.8.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-message-bubble@^1.0.6",
+    "scope": null,
+    "escapedName": "react-native-message-bubble",
+    "name": "react-native-message-bubble",
+    "rawSpec": "^1.0.6",
+    "spec": ">=1.0.6 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-message-bubble/-/react-native-message-bubble-1.0.6.tgz",
+  "_shasum": "f7f7a97c7da47f08be3f4beada1d1cbadfcc5f39",
+  "_shrinkwrap": null,
+  "_spec": "react-native-message-bubble@^1.0.6",
+  "_where": "/Users/wangming/koson/angelia",
+  "author": {
+    "name": "alphamao"
+  },
+  "bugs": {
+    "url": "https://github.com/pop-xiaodong/react-native-message-bubble/issues"
+  },
+  "dependencies": {},
+  "description": "react-native message bubble, both ios and android",
+  "devDependencies": {},
+  "directories": {
+    "example": "example"
+  },
+  "dist": {
+    "shasum": "f7f7a97c7da47f08be3f4beada1d1cbadfcc5f39",
+    "tarball": "https://registry.npmjs.org/react-native-message-bubble/-/react-native-message-bubble-1.0.6.tgz"
+  },
+  "gitHead": "378c078a4b6d92a6a9c16d6122d52eb0334c389c",
+  "homepage": "https://github.com/pop-xiaodong/react-native-message-bubble#readme",
+  "keywords": [
+    "react-native",
+    "bubble",
+    "speech-bubble",
+    "message-bubble",
+    "speech",
+    "message",
+    "chat"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "alphamao",
+      "email": "641332669@qq.com"
+    }
+  ],
+  "name": "react-native-message-bubble",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pop-xiaodong/react-native-message-bubble.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}

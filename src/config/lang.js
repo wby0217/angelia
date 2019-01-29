@@ -1,0 +1,1 @@
+export default {    PLAY_SETTINGS: '玩法管理',    PLAY_REF: '玩法说明'}

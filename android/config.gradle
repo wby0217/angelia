@@ -1,0 +1,76 @@
+ext {
+    global = [
+            "CODE_PUSH_SERVER_URL"    : "http://api.codepush.cc",
+            // For production, be careful
+            "CODE_PUSH_KEY": "opeEQWq9FbvNJvIV2yQB40xzyj6E8ksvOPxlc"
+    ]
+    develop = [
+            "applicationId"       : "com.angelia.develop",
+            "API_SERVER"          : "https://api.wc.kosun.net",
+            "CODE_PUSH_KEY"       : "VklNnt0qDj2HFHFJKL7aCNDQeq3j8ksvOPxlc",
+            "JPUSH_KEY"           : "24f6462c0e8b26215fe41eaa",
+            "APP_CHANNEL"         : "default",
+            'CONFIG_DIR'          : 'develop',
+            "UMENG_APPKEY"        : "5a2220c4b27b0a3be000010f",
+            "UMENG_MESSAGE_SECRET": "7071b159a4917e3708208e70d21d9fbe",
+            "WECHAT_APP_ID"       : "wx40ecec3a7795a868",
+            "WECHAT_APP_SECRET"   : "72d967d4962666ca884dd6caca7c4276",
+            "QQ_APP_ID"           : "1106565498",
+            "QQ_APP_SECRET"       : "jd7b3z4YV5rknHnk",
+            "QQ_APP_CALLBACK"     : "",
+            "SINA_APP_ID"         : "4210893970",
+            "SINA_APP_SECRET"     : "3f9d5aaea3b03bbd72aa46b9a78d1c00",
+            "SINA_APP_CALLBACK"   : "http://sns.whalecloud.com"
+    ]
+    wancai = [
+            "applicationId"       : "com.angelia.wancai",
+            "API_SERVER"          : "https://api.wc.kosun.net",
+            "JPUSH_KEY"           : "4b52b30f1bc81319772f2cf1",
+            "APP_CHANNEL"         : "default",
+            'CONFIG_DIR'          : 'wancai',
+            "UMENG_APPKEY"        : "5a220d91a40fa313a1000aca",
+            "UMENG_MESSAGE_SECRET": "0201804788706a90895343a7ec30d5f1",
+            "WECHAT_APP_ID"       : "wx40ecec3a7795a868",
+            "WECHAT_APP_SECRET"   : "72d967d4962666ca884dd6caca7c4276",
+            "QQ_APP_ID"           : "1106565498",
+            "QQ_APP_SECRET"       : "jd7b3z4YV5rknHnk",
+            "QQ_APP_CALLBACK"     : "",
+            "SINA_APP_ID"         : "4210893970",
+            "SINA_APP_SECRET"     : "3f9d5aaea3b03bbd72aa46b9a78d1c00",
+            "SINA_APP_CALLBACK"   : "http://sns.whalecloud.com"
+    ]
+    vip500lc = [
+            "applicationId"       : "com.angelia.vip500lc",
+            "API_SERVER"          : "https://vip500lc.lcmobileapi.com",
+            "JPUSH_KEY"           : "4b52b30f1bc81319772f2cf1",
+            "APP_CHANNEL"         : "default",
+            'CONFIG_DIR'          : 'vip500lc',
+            "UMENG_APPKEY"        : "5a4deae58f4a9d13fc000284",
+            "UMENG_MESSAGE_SECRET": "ef738b75d47750c9a5fd794a81fd5e89",
+            "WECHAT_APP_ID"       : "wx9ac888ff8ba6a7a2",
+            "WECHAT_APP_SECRET"   : "7c56e1a631cd048f002ab4fff7ed109d",
+            "QQ_APP_ID"           : "1106652408",
+            "QQ_APP_SECRET"       : "gA9PUmZr016xMLFK",
+            "QQ_APP_CALLBACK"     : "",
+            "SINA_APP_ID"         : "",
+            "SINA_APP_SECRET"     : "",
+            "SINA_APP_CALLBACK"   : ""
+    ]
+    cp33lc = [
+                "applicationId"       : "com.angelia.cp33lc",
+                "API_SERVER"          : "https://cp33lc.lcmobileapi.com/",
+                "JPUSH_KEY"           : "17e45be0d11b84a947d2c2ef",
+                "APP_CHANNEL"         : "default",
+                'CONFIG_DIR'          : 'cp33lc',
+                "UMENG_APPKEY"        : "5a7d1b8a8f4a9d3487000013",
+                "UMENG_MESSAGE_SECRET": "680135224dde7abc3eacb6ad9a6fa9f7",
+                "WECHAT_APP_ID"       : "",
+                "WECHAT_APP_SECRET"   : "",
+                "QQ_APP_ID"           : "",
+                "QQ_APP_SECRET"       : "",
+                "QQ_APP_CALLBACK"     : "",
+                "SINA_APP_ID"         : "",
+                "SINA_APP_SECRET"     : "",
+                "SINA_APP_CALLBACK"   : ""
+        ]
+}
